@@ -1,0 +1,2 @@
+# goindex
+google index
